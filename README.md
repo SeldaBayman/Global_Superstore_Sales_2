@@ -3,9 +3,8 @@ I made 2th data analysis for Global Superstore Sales and Growth with Power BI to
 
 GitHub Project Overview: Global Superstore Sales Analysis (2014 - 2016) 😊📊🚀
 Welcome to my comprehensive Power BI report on Global Superstore sales data from 2014 to 2016! Using advanced Power BI capabilities, I explored the data across several dimensions, focusing on year-over-year growth, profit trends, regional insights, and category performance. Below is a detailed breakdown of the analysis, insights, and trends that highlight the company's growth trajectory and potential areas for improvement. Let’s dive into the story of Global Superstore’s journey to success! 🎉
-![gb_2](https://github.com/user-attachments/assets/0b19a7b6-b7c2-4c8c-b55d-564d51d15ee8)
 
-![gb_1](https://github.com/user-attachments/assets/d980f3cf-76e9-422d-815f-033fffed4fad)
+![gb_2](https://github.com/user-attachments/assets/0b19a7b6-b7c2-4c8c-b55d-564d51d15ee8)
 
 
 Project Highlights 📈📉
@@ -28,6 +27,9 @@ Regional Performance Insights 🌎📍
 
 Top Regions: Asia-Pacific and North America were standout regions, reporting the highest growth rates in both sales and profit. These markets emerged as pivotal for the company's expansion goals.
 Growth Potential in Other Regions: Europe displayed moderate growth, while South America lagged. This signals an opportunity to refine strategies or invest further in underperforming regions.
+
+!!https://github.com/SeldaBayman/Global_Superstore_Sales_2/tree/main
+
 Customer Segmentation Analysis 👥📈
 
 Corporate Segment Success: The Corporate customer segment saw the fastest growth in both profit and units sold, with a 30% year-over-year increase. This outpaced both the Home Office and Consumer segments, highlighting B2B partnerships as a key profit driver in 2015.
