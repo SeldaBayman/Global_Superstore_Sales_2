@@ -28,7 +28,7 @@ Regional Performance Insights 🌎📍
 Top Regions: Asia-Pacific and North America were standout regions, reporting the highest growth rates in both sales and profit. These markets emerged as pivotal for the company's expansion goals.
 Growth Potential in Other Regions: Europe displayed moderate growth, while South America lagged. This signals an opportunity to refine strategies or invest further in underperforming regions.
 
-!!https://github.com/SeldaBayman/Global_Superstore_Sales_2/tree/main
+https://github.com/SeldaBayman/Global_Superstore_Sales_2/tree/main
 
 Customer Segmentation Analysis 👥📈
 
