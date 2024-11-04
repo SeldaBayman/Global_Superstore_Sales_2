@@ -3,6 +3,10 @@ I made 2th data analysis for Global Superstore Sales and Growth with Power BI to
 
 GitHub Project Overview: Global Superstore Sales Analysis (2014 - 2016) 😊📊🚀
 Welcome to my comprehensive Power BI report on Global Superstore sales data from 2014 to 2016! Using advanced Power BI capabilities, I explored the data across several dimensions, focusing on year-over-year growth, profit trends, regional insights, and category performance. Below is a detailed breakdown of the analysis, insights, and trends that highlight the company's growth trajectory and potential areas for improvement. Let’s dive into the story of Global Superstore’s journey to success! 🎉
+![gb_2](https://github.com/user-attachments/assets/0b19a7b6-b7c2-4c8c-b55d-564d51d15ee8)
+
+![gb_1](https://github.com/user-attachments/assets/d980f3cf-76e9-422d-815f-033fffed4fad)
+
 
 Project Highlights 📈📉
 
@@ -15,6 +19,12 @@ Profit Growth: The data shows an impressive average profit increase of 18% from 
 Sales Growth: Sales saw a strong 20% year-over-year increase, with the most robust growth observed in Q4. This suggests a seasonal boost in demand, especially for high-ticket items in the Technology segment.
 Unit Growth: Total units sold rose by 25%, pointing to successful promotions and expanding market reach. This metric signals greater customer engagement and product accessibility.
 Regional Performance Insights 🌎📍
+
+![gb_3](https://github.com/user-attachments/assets/61ea84a5-5cb2-494a-8d67-81522d928509)
+
+![gb_4](https://github.com/user-attachments/assets/f5befd1a-8606-40f8-9c8e-1634650fc02e)
+
+![gb_5](https://github.com/user-attachments/assets/36f51c0b-983d-40d2-80b5-652e25b5e24c)
 
 Top Regions: Asia-Pacific and North America were standout regions, reporting the highest growth rates in both sales and profit. These markets emerged as pivotal for the company's expansion goals.
 Growth Potential in Other Regions: Europe displayed moderate growth, while South America lagged. This signals an opportunity to refine strategies or invest further in underperforming regions.
